@@ -8,8 +8,24 @@ This repository contains the geometries of Reactants, Products and TSs of each e
    - ph-NHOH<sub>(g)</sub>   -->    ph-NHOH<sup>*</sup>
    - ph-NH<sub>2(g)</sub>    -->    ph-NH<sub>2</sub><sup>*</sup>
    - H<sub>2</sub>O<sub>(g)</sub>       -->    ph-H<sub>2</sub>O<sup>*</sup>
-<ins>*Reactions*</ins>
 
+<ins>*Reactions*</ins>
+   - H2*                -->    H*         +  H*
+   - ph-NO2*   +  H*    -->    ph-NOOH*
+   - ph-NOOH*           -->    ph-NO*     +  OH*
+   - ph-NO*    +   H*   -->    ph-NOH*
+   - ph-NOOH*  +  H*    -->    ph-N(OH)2*
+   - ph-N(OH)2*         -->    ph-NOH*    +  OH*
+   - ph-NOH*   +  H*    -->    ph-NHOH*
+   - ph-NHOH*           -->    ph-NH*     +  OH*
+   - ph-NOH*            -->    ph-N*      +  H*
+   - ph-N*     +  H*    -->    ph-NH*
+   - ph-NH*    + H*     -->    ph-NH2*
+   - ph-NO*             -->    ph-N*      +  ph-O*
+
+
+
+   
 The Pd(111) optimized structure can be found in the root of the "Optimized Geometries" folder and the files for each reaction are located in each "Optimized Geometries/Reaction" folder, where "Reaction" corresponds to each reaction name (*e.g.,* ph-NO2 hydrogenation folder is called **ph-NO2+H->ph-NOOH** ). Each folder contains the VASP CONTCAR files with each independent reactant and product adsorbed into the Pd(111) surface, as well as the coadsorbed species (when applicable) and the TS that connects them. Those are labeled as following (note that Phenile rings were not written for simplicity, so NO2 or NHOH are actually ph-NO2 and ph-NHOH):
    
    - *X-CONTCAR :  The global minimum energy configuration of the X Reactant or Product adsorbed into Pd(111).*
