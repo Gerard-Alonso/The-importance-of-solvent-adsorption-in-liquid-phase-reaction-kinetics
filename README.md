@@ -10,18 +10,18 @@ This repository contains the geometries of Reactants, Products and TSs of each e
    - H<sub>2</sub>O<sub>(g)</sub>       -->    ph-H<sub>2</sub>O<sup>*</sup>
 
 <ins>*Reactions*</ins>
-   - H2*                -->    H*         +  H*
-   - ph-NO2*   +  H*    -->    ph-NOOH*
-   - ph-NOOH*           -->    ph-NO*     +  OH*
-   - ph-NO*    +   H*   -->    ph-NOH*
-   - ph-NOOH*  +  H*    -->    ph-N(OH)2*
-   - ph-N(OH)2*         -->    ph-NOH*    +  OH*
-   - ph-NOH*   +  H*    -->    ph-NHOH*
-   - ph-NHOH*           -->    ph-NH*     +  OH*
-   - ph-NOH*            -->    ph-N*      +  H*
-   - ph-N*     +  H*    -->    ph-NH*
-   - ph-NH*    + H*     -->    ph-NH2*
-   - ph-NO*             -->    ph-N*      +  ph-O*
+   - H<sub>2</sub<sup>*</sup>                -->    H<sup>*</sup>         +  H<sup>*</sup>
+   - ph-NO<sub>2</sub<sup>*</sup>   +  H<sup>*</sup>    -->    ph-NOOH<sup>*</sup>
+   - ph-NOOH<sup>*</sup>           -->    ph-NO<sup>*</sup>     +  OH<sup>*</sup>
+   - ph-NO<sup>*</sup>    +  H<sup>*</sup>   -->    ph-NOH<sup>*</sup>
+   - ph-NOOH<sup>*</sup>  +  H<sup>*</sup>    -->    ph-N(OH)<sub>2</sub<sup>*</sup>
+   - ph-N(OH)<sub>2</sub<sup>*</sup>         -->    ph-NOH<sup>*</sup>    +  OH<sup>*</sup>
+   - ph-NOH<sup>*</sup>   +  H<sup>*</sup>    -->    ph-NHOH<sup>*</sup>
+   - ph-NHOH<sup>*</sup>           -->    ph-NH<sup>*</sup>     +  OH<sup>*</sup>
+   - ph-NOH<sup>*</sup>            -->    ph-N<sup>*</sup>      +  H<sup>*</sup>
+   - ph-N<sup>*</sup>     +  H<sup>*</sup>    -->    ph-NH<sup>*</sup>
+   - ph-NH<sup>*</sup>    +  H<sup>*</sup>     -->    ph-NH<sub>2</sub<sup>*</sup>
+   - ph-NO<sup>*</sup>             -->    ph-N<sup>*</sup>      +  ph-O<sup>*</sup>
 
 
 
