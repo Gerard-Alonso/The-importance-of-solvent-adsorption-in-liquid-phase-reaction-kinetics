@@ -36,4 +36,4 @@ The Pd(111) optimized structure can be found in the root of the "Optimized Geome
 Please, if you use any of the optimized CONTCAR files in this repository cite the original work where they were located:
 - *J. Herrera, P. Gamallo, C.H. Campos, G. Alonso. The importance of solvent adsorption in liquid phase reaction kinetics:  Nitrobenzene hydrogenation in Pd (111) as a case study. Manuscript under preparation*
 
-``` *J. Herrera, P. Gamallo, C.H. Campos, G. Alonso. The importance of solvent adsorption in liquid phase reaction kinetics:  Nitrobenzene hydrogenation in Pd (111) as a case study. Manuscript under preparation*
+``` *J. Herrera, P. Gamallo, C.H. Campos, G. Alonso. The importance of solvent adsorption in liquid phase reaction kinetics:  Nitrobenzene hydrogenation in Pd (111) as a case study. Manuscript under preparation* ```
